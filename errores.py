@@ -1,7 +1,7 @@
 numHuevos = 12 
 
 # Opcion 1 
-print('Tengo' + str(numHuevos) + 'Huevos')
+print('Tengo ' + str(numHuevos) + ' Huevos')
 
 # Opcion 2 
 print('Tengo %s huevos.' %(numHuevos))
