@@ -13,7 +13,6 @@ Aunque en cada paso la probabilidad es 50 % y 50 %, la mayoría de las canicas c
 contenedores centrales y muy pocas en los extremos. Esto forma la conocida **campana**
 de la distribución normal.
 
-![Histograma de la simulación](histograma_galton.png)
 
 *(Cada ejecución da un resultado un poco distinto porque los números son aleatorios.)*
 
