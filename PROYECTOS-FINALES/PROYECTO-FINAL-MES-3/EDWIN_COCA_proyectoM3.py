@@ -68,6 +68,9 @@ def graficar_histograma(resultados, niveles):
     # Se muestra un número en el eje X por cada contenedor
     plt.xticks(range(niveles + 1))
 
+    # Guardar el histograma como imagen para GitHub
+    plt.savefig("histograma_galton.png", dpi=300, bbox_inches="tight")
+
     # Se muestra la gráfica en pantalla
     plt.show()
 

@@ -75,3 +75,7 @@ Este proyecto me ayuda a fortalecer las bases de programación que necesito para
 
 Lo que quiero aprender después:
 Quiero seguir mejorando mis conocimientos de Python y aprender a trabajar con datos de una manera más profesional. Después quiero avanzar hacia análisis de datos, Machine Learning e Inteligencia Artificial para poder desarrollar mis propios proyectos
+
+## 📊 Resultados de la simulación
+
+![Histograma de la Máquina de Galton](histograma_galton.png)
